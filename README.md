@@ -80,8 +80,6 @@ RegisterNumber: 25009198
 ![syncotime_page-0001](https://github.com/user-attachments/assets/104f4538-0fd4-4d59-af08-b76c82f80d92)
 
 
-**TRUTH TABLE**
-
 **RESULTS**
 
 Thus To implement 4 bit synchronous up counter and validate functionality is verified
